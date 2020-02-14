@@ -62,11 +62,6 @@ g1000_copilot_button_fd = hw_button_add("G1000 copilot flight director",function
     xpl_command("sim/GPS/g1000n3_fd")
 end)
 
-g1000_copilot_button_yd = hw_button_add("G1000 copilot yaw damper",function()
-    print("G1000 copilot yaw damper")
-    xpl_command("sim/GPS/g1000n3_yd")
-end)
-
 g1000_copilot_button_hdg = hw_button_add("G1000 copilot AP HDG",function()
     print("G1000 copilot AP HDG")
     xpl_command("sim/GPS/g1000n3_hdg")
@@ -260,17 +255,40 @@ end)
 -- End CRS BARO rotary control
 
 -- RANGE PAN controls
---sim/GPS/g1000n3_range_up	    G1000 copilot range up.
---sim/GPS/g1000n3_range_down	    G1000 copilot range down.
---sim/GPS/g1000n3_pan_up	    G1000 copilot pan up.
---sim/GPS/g1000n3_pan_down	    G1000 copilot pan down.
---sim/GPS/g1000n3_pan_left	    G1000 copilot pan left.
---sim/GPS/g1000n3_pan_right	    G1000 copilot pan right.
---sim/GPS/g1000n3_pan_up_left	    G1000 copilot pan up left.
---sim/GPS/g1000n3_pan_down_left	    G1000 copilot pan down left.
---sim/GPS/g1000n3_pan_up_right	    G1000 copilot pan up right.
---sim/GPS/g1000n3_pan_down_right    G1000 copilot pan down right.
---sim/GPS/g1000n3_pan_push	    G1000 copilot push pan.
+g1000_pilot_button_pan_up = hw_button_add("G1000 copilot pan up",function()
+    print("G1000 copilot pan up")
+    xpl_command("sim/GPS/g1000n3_pan_up")
+end)
+
+g1000_pilot_button_pan_right = hw_button_add("G1000 copilot pan right",function()
+    print("G1000 copilot pan right")
+    xpl_command("sim/GPS/g1000n3_pan_right")
+end)
+
+g1000_pilot_button_pan_down = hw_button_add("G1000 copilot pan down",function()
+    print("G1000 copilot pan down")
+    xpl_command("sim/GPS/g1000n3_pan_down")
+end)
+
+g1000_pilot_button_pan_left = hw_button_add("G1000 copilot pan left",function()
+    print("G1000 copilot pan left")
+    xpl_command("sim/GPS/g1000n3_pan_left")
+end)
+
+g1000_pilot_button_pan_push = hw_button_add("G1000 copilot pan push",function()
+    print("G1000 copilot pan push")
+    xpl_command("sim/GPS/g1000n3_pan_push")
+end)
+
+g1000_pilot_dial_range = hw_dial_add("G1000 copilot range rotary control","TYPE_2_DETENT_PER_PULSE",function(direction)
+    if direction == 1 then
+        print("G1000 copilot range up")
+        xpl_command("sim/GPS/g1000n3_range_up")
+    elseif direction == -1 then
+        print("G1000 copilot range down.")
+        xpl_command("sim/GPS/g1000n3_range_down")
+    end
+end)
 -- End RANGE PAN controls
 
 g1000_copilot_button_direct = hw_button_add("G1000 copilot D->",function()
@@ -306,20 +324,20 @@ end)
 -- FMS rotary control
 g1000_copilot_dial_fms_big = hw_dial_add("G1000 copilot FMS outer rotary control","TYPE_2_DETENT_PER_PULSE",function(direction)
     if direction == 1 then
-        print("G1000 copilot FMS outer ring tune up")
+        print("G1000 copilot FMS outer ring up")
         xpl_command("sim/GPS/g1000n3_fms_outer_up")
     elseif direction == -1 then
-        print("G1000 copilot FMS outer ring tune down")
+        print("G1000 copilot FMS outer ring down")
         xpl_command("sim/GPS/g1000n3_fms_outer_down")
     end
 end)
 
 g1000_copilot_dial_fms_sml = hw_dial_add("G1000 copilot FMS inner rotary control","TYPE_2_DETENT_PER_PULSE",function(direction)
     if direction == 1 then
-        print("G1000 copilot FMS inner ring tune up")
+        print("G1000 copilot FMS inner ring up")
         xpl_command("sim/GPS/g1000n3_fms_inner_up")
     elseif direction == -1 then
-        print("G1000 copilot FMS inner ring tune down")
+        print("G1000 copilot FMS inner ring down")
         xpl_command("sim/GPS/g1000n3_fms_inner_down")
     end
 end)
