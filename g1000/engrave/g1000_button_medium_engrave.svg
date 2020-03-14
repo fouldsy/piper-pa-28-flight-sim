@@ -1,0 +1,498 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="11mm"
+   height="6mm"
+   viewBox="0 0 11 6"
+   version="1.1"
+   id="svg6294"
+   inkscape:version="0.92.4 (5da689c313, 2019-01-14)"
+   sodipodi:docname="g1000_button_medium_engrave.svg">
+  <defs
+     id="defs6288">
+    <marker
+       inkscape:isstock="true"
+       style="overflow:visible"
+       id="marker1717"
+       refX="0.0"
+       refY="0.0"
+       orient="auto"
+       inkscape:stockid="TriangleOutL">
+      <path
+         transform="scale(0.8)"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1;fill:#000000;fill-opacity:1"
+         d="M 5.77,0.0 L -2.88,5.0 L -2.88,-5.0 L 5.77,0.0 z "
+         id="path1715" />
+    </marker>
+    <marker
+       inkscape:stockid="TriangleInL"
+       orient="auto"
+       refY="0.0"
+       refX="0.0"
+       id="TriangleInL"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         id="path1209"
+         d="M 5.77,0.0 L -2.88,5.0 L -2.88,-5.0 L 5.77,0.0 z "
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1;fill:#000000;fill-opacity:1"
+         transform="scale(-0.8)" />
+    </marker>
+    <marker
+       inkscape:stockid="TriangleOutL"
+       orient="auto"
+       refY="0.0"
+       refX="0.0"
+       id="TriangleOutL"
+       style="overflow:visible"
+       inkscape:isstock="true"
+       inkscape:collect="always">
+      <path
+         id="path1218"
+         d="M 5.77,0.0 L -2.88,5.0 L -2.88,-5.0 L 5.77,0.0 z "
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1;fill:#000000;fill-opacity:1"
+         transform="scale(0.8)" />
+    </marker>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="19.266478"
+     inkscape:cx="9.925971"
+     inkscape:cy="3.4602068"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer3"
+     showgrid="true"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0"
+     inkscape:window-width="2043"
+     inkscape:window-height="1406"
+     inkscape:window-x="106"
+     inkscape:window-y="-11"
+     inkscape:window-maximized="1"
+     inkscape:measure-start="439.655,331.145"
+     inkscape:measure-end="339.252,225.129"
+     showguides="true"
+     inkscape:guide-bbox="true"
+     guidetolerance="35"
+     inkscape:snap-perpendicular="false"
+     inkscape:snap-tangential="false"
+     objecttolerance="32"
+     inkscape:snap-path-clip="true"
+     inkscape:snap-path-mask="true"
+     gridtolerance="10"
+     inkscape:pagecheckerboard="false"
+     borderlayer="false"
+     inkscape:showpageshadow="true"
+     inkscape:snap-to-guides="true"
+     inkscape:snap-object-midpoints="true"
+     inkscape:snap-page="true"
+     inkscape:snap-bbox="true"
+     inkscape:bbox-nodes="true"
+     inkscape:object-nodes="false">
+    <inkscape:grid
+       type="xygrid"
+       id="grid4633"
+       units="mm"
+       spacingx="0.49999999"
+       spacingy="0.49999999"
+       snapvisiblegridlinesonly="true"
+       dotted="false"
+       visible="false"
+       enabled="false"
+       originx="-6.778113"
+       originy="-7.3234808" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata6291">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="Button outline"
+     style="display:inline">
+    <path
+       id="Sketch036_w0014-9"
+       d="m 9.6007697,0.19880092 a 54.346165,50.61698 0 0 0 -8.2088999,0 1.444959,1.3458072 0 0 0 -1.33572909,1.32625828 136.03603,126.70136 0 0 0 0,2.9572422 1.444959,1.3458072 0 0 0 1.33572909,1.3262582 54.346165,50.61698 0 0 0 8.2088999,0 1.444959,1.3458072 0 0 0 1.3357293,-1.3262582 136.03603,126.70136 0 0 0 0,-2.9572422 1.444959,1.3458072 0 0 0 -1.3357293,-1.32625828"
+       style="display:inline;fill:none;fill-rule:evenodd;stroke:#fb0000;stroke-width:0.0937538;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       inkscape:connector-curvature="0" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer19"
+     inkscape:label="&lt;-&gt;"
+     style="display:none">
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.21643858;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-start:url(#TriangleInL);marker-end:url(#marker1717)"
+       d="M 8.3089982,3 H 2.6910018"
+       id="path1675"
+       inkscape:connector-curvature="0" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer1"
+     inkscape:label="AP"
+     style="display:none">
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333311px;line-height:1.25;font-family:'Franklin Gothic Medium';-inkscape-font-specification:'Franklin Gothic Medium, ';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="2.9442575"
+       y="4.3716002"
+       id="text844"><tspan
+         sodipodi:role="line"
+         id="tspan842"
+         x="2.9442575"
+         y="4.3716002"
+         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:4.23333311px;font-family:Dubai;-inkscape-font-specification:'Dubai Medium';stroke-width:0.26458332">AP</tspan></text>
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer3"
+     inkscape:label="FD"
+     style="display:none">
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333311px;line-height:1.25;font-family:'Franklin Gothic Medium';-inkscape-font-specification:'Franklin Gothic Medium, ';letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="2.9039416"
+       y="4.3716002"
+       id="text844-8"><tspan
+         sodipodi:role="line"
+         id="tspan842-8"
+         x="2.9039416"
+         y="4.3716002"
+         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:4.23333311px;font-family:Dubai;-inkscape-font-specification:'Dubai Medium';stroke-width:0.26458332">FD</tspan></text>
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer4"
+     inkscape:label="HDG"
+     style="display:none">
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333311px;line-height:1.25;font-family:'Franklin Gothic Medium';-inkscape-font-specification:'Franklin Gothic Medium, ';letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="1.1591139"
+       y="4.3716002"
+       id="text844-7"><tspan
+         sodipodi:role="line"
+         id="tspan842-1"
+         x="1.1591139"
+         y="4.3716002"
+         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:4.23333311px;line-height:1;font-family:Dubai;-inkscape-font-specification:'Dubai Medium';stroke-width:0.26458332">HDG</tspan></text>
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer5"
+     inkscape:label="ALT"
+     style="display:none">
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333311px;line-height:1.25;font-family:'Franklin Gothic Medium';-inkscape-font-specification:'Franklin Gothic Medium, ';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="4.5057092"
+       y="2.9508777"
+       id="text877"><tspan
+         sodipodi:role="line"
+         id="tspan875"
+         x="4.5057092"
+         y="6.8100495"
+         style="stroke-width:0.26458332" /></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333311px;line-height:1.25;font-family:'Franklin Gothic Medium';-inkscape-font-specification:'Franklin Gothic Medium, ';letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="2.0483785"
+       y="4.3716002"
+       id="text844-7-7"><tspan
+         sodipodi:role="line"
+         id="tspan842-1-2"
+         x="2.0483785"
+         y="4.3716002"
+         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:4.23333311px;line-height:1;font-family:Dubai;-inkscape-font-specification:'Dubai Medium';stroke-width:0.26458332">ALT</tspan></text>
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer6"
+     inkscape:label="NAV"
+     style="display:none">
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333311px;line-height:1.25;font-family:'Franklin Gothic Medium';-inkscape-font-specification:'Franklin Gothic Medium, ';letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="1.2815497"
+       y="4.3716002"
+       id="text844-7-73"><tspan
+         sodipodi:role="line"
+         id="tspan842-1-7"
+         x="1.2815497"
+         y="4.3716002"
+         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:4.23333311px;line-height:1;font-family:Dubai;-inkscape-font-specification:'Dubai Medium';stroke-width:0.26458332">NAV</tspan></text>
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer7"
+     inkscape:label="VNV"
+     style="display:none">
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333311px;line-height:1.25;font-family:'Franklin Gothic Medium';-inkscape-font-specification:'Franklin Gothic Medium, ';letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="1.3052961"
+       y="4.3716002"
+       id="text844-7-2"><tspan
+         sodipodi:role="line"
+         id="tspan842-1-1"
+         x="1.3052961"
+         y="4.3716002"
+         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:4.23333311px;line-height:1;font-family:Dubai;-inkscape-font-specification:'Dubai Medium';stroke-width:0.26458332">VNV</tspan></text>
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer8"
+     inkscape:label="APR"
+     style="display:none">
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333311px;line-height:1.25;font-family:'Franklin Gothic Medium';-inkscape-font-specification:'Franklin Gothic Medium, ';letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="1.6798469"
+       y="4.3716002"
+       id="text844-7-23"><tspan
+         sodipodi:role="line"
+         id="tspan842-1-8"
+         x="1.6798469"
+         y="4.3716002"
+         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:4.23333311px;line-height:1;font-family:Dubai;-inkscape-font-specification:'Dubai Medium';stroke-width:0.26458332">APR</tspan></text>
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer9"
+     inkscape:label="BC"
+     style="display:none">
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333311px;line-height:1.25;font-family:'Franklin Gothic Medium';-inkscape-font-specification:'Franklin Gothic Medium, ';letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="2.8741429"
+       y="4.3716002"
+       id="text844-7-4"><tspan
+         sodipodi:role="line"
+         id="tspan842-1-15"
+         x="2.8741429"
+         y="4.3716002"
+         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:4.23333311px;line-height:1;font-family:Dubai;-inkscape-font-specification:'Dubai Medium';stroke-width:0.26458332">BC</tspan></text>
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer10"
+     inkscape:label="VS"
+     style="display:none">
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333311px;line-height:1.25;font-family:'Franklin Gothic Medium';-inkscape-font-specification:'Franklin Gothic Medium, ';letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="3.0655358"
+       y="4.3716002"
+       id="text844-7-1"><tspan
+         sodipodi:role="line"
+         id="tspan842-1-4"
+         x="3.0655358"
+         y="4.3716002"
+         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:4.23333311px;line-height:1;font-family:Dubai;-inkscape-font-specification:'Dubai Medium';stroke-width:0.26458332">VS</tspan></text>
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer11"
+     inkscape:label="NOSE UP"
+     style="display:none">
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333311px;line-height:1.25;font-family:'Franklin Gothic Medium';-inkscape-font-specification:'Franklin Gothic Medium, ';letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="2.7786283"
+       y="5.1535797"
+       id="text844-7-17"><tspan
+         sodipodi:role="line"
+         id="tspan842-1-19"
+         x="2.7786283"
+         y="5.1535797"
+         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:4.23333311px;line-height:1;font-family:Dubai;-inkscape-font-specification:'Dubai Medium';stroke-width:0.26458332">UP</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333311px;line-height:1.25;font-family:'Franklin Gothic Medium';-inkscape-font-specification:'Franklin Gothic Medium, ';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="3.0245845"
+       y="2.1173658"
+       id="text961"><tspan
+         sodipodi:role="line"
+         id="tspan959"
+         x="3.0245845"
+         y="2.1173658"
+         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:1.94027781px;font-family:Dubai;-inkscape-font-specification:'Dubai Medium';stroke-width:0.26458332">NOSE</tspan></text>
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer12"
+     inkscape:label="FLC"
+     style="display:none">
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333311px;line-height:1.25;font-family:'Franklin Gothic Medium';-inkscape-font-specification:'Franklin Gothic Medium, ';letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="2.0183811"
+       y="4.3716002"
+       id="text844-7-1-5"><tspan
+         sodipodi:role="line"
+         id="tspan842-1-4-0"
+         x="2.0183811"
+         y="4.3716002"
+         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:4.23333311px;line-height:1;font-family:Dubai;-inkscape-font-specification:'Dubai Medium';stroke-width:0.26458332">FLC</tspan></text>
+  </g>
+  <g
+     inkscape:label="NOSE DOWN"
+     id="g971"
+     inkscape:groupmode="layer"
+     style="display:none">
+    <text
+       id="text965"
+       y="4.9975352"
+       x="2.5897489"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333311px;line-height:1.25;font-family:'Franklin Gothic Medium';-inkscape-font-specification:'Franklin Gothic Medium, ';letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       xml:space="preserve"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:4.23333311px;line-height:1;font-family:Dubai;-inkscape-font-specification:'Dubai Medium';stroke-width:0.26458332"
+         y="4.9975352"
+         x="2.5897489"
+         id="tspan963"
+         sodipodi:role="line">DN</tspan></text>
+    <text
+       id="text969"
+       y="2.0573771"
+       x="3.2496223"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333311px;line-height:1.25;font-family:'Franklin Gothic Medium';-inkscape-font-specification:'Franklin Gothic Medium, ';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       xml:space="preserve"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:1.76388884px;font-family:Dubai;-inkscape-font-specification:'Dubai Medium';stroke-width:0.26458332"
+         y="2.0573771"
+         x="3.2496223"
+         id="tspan967"
+         sodipodi:role="line">NOSE</tspan></text>
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer18"
+     inkscape:label="D -&gt;"
+     style="display:none">
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333311px;line-height:1.25;font-family:'Franklin Gothic Medium';-inkscape-font-specification:'Franklin Gothic Medium, ';letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="3.7590415"
+       y="4.6002002"
+       id="text844-7-1-9"><tspan
+         sodipodi:role="line"
+         id="tspan842-1-4-6"
+         x="3.7590415"
+         y="4.6002002"
+         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:4.93888903px;line-height:1;font-family:Dubai;-inkscape-font-specification:'Dubai Medium';stroke-width:0.26458332">D</tspan></text>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.20150553;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#TriangleOutL)"
+       d="M 1.9499214,2.983031 C 7.9055039,3.001802 7.9055039,3.001802 7.9055039,3.001802"
+       id="path1074"
+       inkscape:connector-curvature="0" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer13"
+     inkscape:label="MENU"
+     style="display:none">
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333311px;line-height:1.25;font-family:'Franklin Gothic Medium';-inkscape-font-specification:'Franklin Gothic Medium, ';letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="0.59818059"
+       y="4.1200695"
+       id="text844-7-1-2"><tspan
+         sodipodi:role="line"
+         id="tspan842-1-4-5"
+         x="0.59818059"
+         y="4.1200695"
+         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:3.52777767px;line-height:1;font-family:Dubai;-inkscape-font-specification:'Dubai Medium';stroke-width:0.26458332">MENU</tspan></text>
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer14"
+     inkscape:label="FPL"
+     style="display:none">
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333311px;line-height:1.25;font-family:'Franklin Gothic Medium';-inkscape-font-specification:'Franklin Gothic Medium, ';letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="1.9739645"
+       y="4.3716002"
+       id="text844-7-1-0"><tspan
+         sodipodi:role="line"
+         id="tspan842-1-4-2"
+         x="1.9739645"
+         y="4.3716002"
+         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:4.23333311px;line-height:1;font-family:Dubai;-inkscape-font-specification:'Dubai Medium';stroke-width:0.26458332">FPL</tspan></text>
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer15"
+     inkscape:label="PROC"
+     style="display:inline">
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333311px;line-height:1.25;font-family:'Franklin Gothic Medium';-inkscape-font-specification:'Franklin Gothic Medium, ';letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="1.1000345"
+       y="4.1430001"
+       id="text844-7-1-2-0"><tspan
+         sodipodi:role="line"
+         id="tspan842-1-4-5-6"
+         x="1.1000345"
+         y="4.1430001"
+         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:3.52777767px;line-height:1;font-family:Dubai;-inkscape-font-specification:'Dubai Medium';stroke-width:0.26458332">PROC</tspan></text>
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer16"
+     inkscape:label="CLR"
+     style="display:none">
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333311px;line-height:1.25;font-family:'Franklin Gothic Medium';-inkscape-font-specification:'Franklin Gothic Medium, ';letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="1.8914142"
+       y="4.3716002"
+       id="text844-7-1-55"><tspan
+         sodipodi:role="line"
+         id="tspan842-1-4-8"
+         x="1.8914142"
+         y="4.3716002"
+         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:4.23333311px;line-height:1;font-family:Dubai;-inkscape-font-specification:'Dubai Medium';stroke-width:0.26458332">CLR</tspan></text>
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer17"
+     inkscape:label="ENT"
+     style="display:none">
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333311px;line-height:1.25;font-family:'Franklin Gothic Medium';-inkscape-font-specification:'Franklin Gothic Medium, ';letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="1.4954654"
+       y="4.3716002"
+       id="text844-7-1-05"><tspan
+         sodipodi:role="line"
+         id="tspan842-1-4-84"
+         x="1.4954654"
+         y="4.3716002"
+         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:4.23333311px;line-height:1;font-family:Dubai;-inkscape-font-specification:'Dubai Medium';stroke-width:0.26458332">ENT</tspan></text>
+  </g>
+</svg>

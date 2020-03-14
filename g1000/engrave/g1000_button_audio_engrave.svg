@@ -1,0 +1,562 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="11mm"
+   height="6mm"
+   viewBox="0 0 11 6"
+   version="1.1"
+   id="svg6294"
+   inkscape:version="0.92.4 (5da689c313, 2019-01-14)"
+   sodipodi:docname="g1000_button_audio_engrave.svg">
+  <defs
+     id="defs6288">
+    <marker
+       inkscape:isstock="true"
+       style="overflow:visible"
+       id="marker1717"
+       refX="0.0"
+       refY="0.0"
+       orient="auto"
+       inkscape:stockid="TriangleOutL">
+      <path
+         transform="scale(0.8)"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1;fill:#000000;fill-opacity:1"
+         d="M 5.77,0.0 L -2.88,5.0 L -2.88,-5.0 L 5.77,0.0 z "
+         id="path1715" />
+    </marker>
+    <marker
+       inkscape:stockid="TriangleInL"
+       orient="auto"
+       refY="0.0"
+       refX="0.0"
+       id="TriangleInL"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         id="path1209"
+         d="M 5.77,0.0 L -2.88,5.0 L -2.88,-5.0 L 5.77,0.0 z "
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1;fill:#000000;fill-opacity:1"
+         transform="scale(-0.8)" />
+    </marker>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="19.266478"
+     inkscape:cx="14.960622"
+     inkscape:cy="8.4883182"
+     inkscape:document-units="mm"
+     inkscape:current-layer="g1010"
+     showgrid="true"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0"
+     inkscape:window-width="2043"
+     inkscape:window-height="1406"
+     inkscape:window-x="106"
+     inkscape:window-y="-11"
+     inkscape:window-maximized="1"
+     inkscape:measure-start="439.655,331.145"
+     inkscape:measure-end="339.252,225.129"
+     showguides="true"
+     inkscape:guide-bbox="true"
+     guidetolerance="35"
+     inkscape:snap-perpendicular="false"
+     inkscape:snap-tangential="false"
+     objecttolerance="32"
+     inkscape:snap-path-clip="true"
+     inkscape:snap-path-mask="true"
+     gridtolerance="10"
+     inkscape:pagecheckerboard="false"
+     borderlayer="false"
+     inkscape:showpageshadow="true"
+     inkscape:snap-to-guides="true"
+     inkscape:snap-object-midpoints="true"
+     inkscape:snap-page="true"
+     inkscape:snap-bbox="true"
+     inkscape:bbox-nodes="true"
+     inkscape:object-nodes="false">
+    <inkscape:grid
+       type="xygrid"
+       id="grid4633"
+       units="mm"
+       spacingx="0.49999999"
+       spacingy="0.49999999"
+       snapvisiblegridlinesonly="true"
+       dotted="false"
+       visible="false"
+       enabled="false"
+       originx="-6.778113"
+       originy="-7.3234808" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata6291">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="Button outline"
+     style="display:inline">
+    <path
+       id="Sketch036_w0014-9"
+       d="m 9.6007697,0.19880092 a 54.346165,50.61698 0 0 0 -8.2088999,0 1.444959,1.3458072 0 0 0 -1.33572909,1.32625828 136.03603,126.70136 0 0 0 0,2.9572422 1.444959,1.3458072 0 0 0 1.33572909,1.3262582 54.346165,50.61698 0 0 0 8.2088999,0 1.444959,1.3458072 0 0 0 1.3357293,-1.3262582 136.03603,126.70136 0 0 0 0,-2.9572422 1.444959,1.3458072 0 0 0 -1.3357293,-1.32625828"
+       style="display:inline;fill:none;fill-rule:evenodd;stroke:#fb0000;stroke-width:0.0937538;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       inkscape:connector-curvature="0" />
+  </g>
+  <g
+     style="display:none"
+     inkscape:label="COM1 MIC"
+     id="g1022"
+     inkscape:groupmode="layer">
+    <text
+       id="text1020"
+       y="2.7367194"
+       x="1.7964506"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333311px;line-height:1.25;font-family:'Franklin Gothic Medium';-inkscape-font-specification:'Franklin Gothic Medium, ';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       xml:space="preserve"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:2.82222223px;font-family:Dubai;-inkscape-font-specification:'Dubai Medium';stroke-width:0.26458332"
+         y="2.7367194"
+         x="1.7964506"
+         sodipodi:role="line"
+         id="tspan1024">COM1</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333311px;line-height:1.25;font-family:'Franklin Gothic Medium';-inkscape-font-specification:'Franklin Gothic Medium, ';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="3.046629"
+       y="5.0920806"
+       id="text1030"><tspan
+         id="tspan1028"
+         sodipodi:role="line"
+         x="3.046629"
+         y="5.0920806"
+         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:2.82222223px;font-family:Dubai;-inkscape-font-specification:'Dubai Medium';stroke-width:0.26458332">MIC</tspan></text>
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer1"
+     inkscape:label="COM1"
+     style="display:none">
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333311px;line-height:1.25;font-family:'Franklin Gothic Medium';-inkscape-font-specification:'Franklin Gothic Medium, ';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="0.87056363"
+       y="4.1430001"
+       id="text844"><tspan
+         sodipodi:role="line"
+         id="tspan842"
+         x="0.87056363"
+         y="4.1430001"
+         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:3.52777767px;font-family:Dubai;-inkscape-font-specification:'Dubai Medium';stroke-width:0.26458332">COM1</tspan></text>
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="g1040"
+     inkscape:label="COM2 MIC"
+     style="display:none">
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333311px;line-height:1.25;font-family:'Franklin Gothic Medium';-inkscape-font-specification:'Franklin Gothic Medium, ';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="1.7964506"
+       y="2.7367194"
+       id="text1034"><tspan
+         id="tspan1032"
+         sodipodi:role="line"
+         x="1.7964506"
+         y="2.7367194"
+         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:2.82222223px;font-family:Dubai;-inkscape-font-specification:'Dubai Medium';stroke-width:0.26458332">COM2</tspan></text>
+    <text
+       id="text1038"
+       y="5.0920806"
+       x="3.046629"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333311px;line-height:1.25;font-family:'Franklin Gothic Medium';-inkscape-font-specification:'Franklin Gothic Medium, ';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       xml:space="preserve"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:2.82222223px;font-family:Dubai;-inkscape-font-specification:'Dubai Medium';stroke-width:0.26458332"
+         y="5.0920806"
+         x="3.046629"
+         sodipodi:role="line"
+         id="tspan1036">MIC</tspan></text>
+  </g>
+  <g
+     style="display:none"
+     inkscape:label="COM2"
+     id="g932"
+     inkscape:groupmode="layer">
+    <text
+       id="text930"
+       y="4.1430001"
+       x="0.88114697"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333311px;line-height:1.25;font-family:'Franklin Gothic Medium';-inkscape-font-specification:'Franklin Gothic Medium, ';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       xml:space="preserve"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:3.52777767px;font-family:Dubai;-inkscape-font-specification:'Dubai Medium';stroke-width:0.26458332"
+         y="4.1430001"
+         x="0.88114697"
+         id="tspan928"
+         sodipodi:role="line">COM2</tspan></text>
+  </g>
+  <g
+     style="display:none"
+     inkscape:label="COM3 MIC"
+     id="g1050"
+     inkscape:groupmode="layer">
+    <text
+       id="text1044"
+       y="2.7367194"
+       x="1.7964506"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333311px;line-height:1.25;font-family:'Franklin Gothic Medium';-inkscape-font-specification:'Franklin Gothic Medium, ';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       xml:space="preserve"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:2.82222223px;font-family:Dubai;-inkscape-font-specification:'Dubai Medium';stroke-width:0.26458332"
+         y="2.7367194"
+         x="1.7964506"
+         sodipodi:role="line"
+         id="tspan1042">COM3</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333311px;line-height:1.25;font-family:'Franklin Gothic Medium';-inkscape-font-specification:'Franklin Gothic Medium, ';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="3.046629"
+       y="5.0920806"
+       id="text1048"><tspan
+         id="tspan1046"
+         sodipodi:role="line"
+         x="3.046629"
+         y="5.0920806"
+         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:2.82222223px;font-family:Dubai;-inkscape-font-specification:'Dubai Medium';stroke-width:0.26458332">MIC</tspan></text>
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="g938"
+     inkscape:label="COM3"
+     style="display:inline">
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333311px;line-height:1.25;font-family:'Franklin Gothic Medium';-inkscape-font-specification:'Franklin Gothic Medium, ';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="0.87938303"
+       y="4.1430001"
+       id="text936"><tspan
+         sodipodi:role="line"
+         id="tspan934"
+         x="0.87938303"
+         y="4.1430001"
+         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:3.52777767px;font-family:Dubai;-inkscape-font-specification:'Dubai Medium';stroke-width:0.26458332">COM3</tspan></text>
+  </g>
+  <g
+     style="display:none"
+     inkscape:label="PA"
+     id="g956"
+     inkscape:groupmode="layer">
+    <text
+       id="text954"
+       y="4.1430001"
+       x="3.3588042"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333311px;line-height:1.25;font-family:'Franklin Gothic Medium';-inkscape-font-specification:'Franklin Gothic Medium, ';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       xml:space="preserve"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:3.52777767px;font-family:Dubai;-inkscape-font-specification:'Dubai Medium';stroke-width:0.26458332"
+         y="4.1430001"
+         x="3.3588042"
+         id="tspan952"
+         sodipodi:role="line">PA</tspan></text>
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="g962"
+     inkscape:label="TEL"
+     style="display:none">
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333311px;line-height:1.25;font-family:'Franklin Gothic Medium';-inkscape-font-specification:'Franklin Gothic Medium, ';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="2.6072223"
+       y="4.1430001"
+       id="text960"><tspan
+         sodipodi:role="line"
+         id="tspan958"
+         x="2.6072223"
+         y="4.1430001"
+         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:3.52777767px;font-family:Dubai;-inkscape-font-specification:'Dubai Medium';stroke-width:0.26458332">TEL</tspan></text>
+  </g>
+  <g
+     style="display:none"
+     inkscape:label="MUSIC"
+     id="g968"
+     inkscape:groupmode="layer">
+    <text
+       id="text966"
+       y="4.1430001"
+       x="0.25254089"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333311px;line-height:1.25;font-family:'Franklin Gothic Medium';-inkscape-font-specification:'Franklin Gothic Medium, ';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       xml:space="preserve"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:3.52777767px;font-family:Dubai;-inkscape-font-specification:'Dubai Medium';stroke-width:0.26458332"
+         y="4.1430001"
+         x="0.25254089"
+         id="tspan964"
+         sodipodi:role="line">MUSIC</tspan></text>
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="g974"
+     inkscape:label="SPKR"
+     style="display:none">
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333311px;line-height:1.25;font-family:'Franklin Gothic Medium';-inkscape-font-specification:'Franklin Gothic Medium, ';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="1.3756144"
+       y="4.1430001"
+       id="text972"><tspan
+         sodipodi:role="line"
+         id="tspan970"
+         x="1.3756144"
+         y="4.1430001"
+         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:3.52777767px;font-family:Dubai;-inkscape-font-specification:'Dubai Medium';stroke-width:0.26458332">SPKR</tspan></text>
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="g1060"
+     inkscape:label="MKR MUTE"
+     style="display:none">
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333311px;line-height:1.25;font-family:'Franklin Gothic Medium';-inkscape-font-specification:'Franklin Gothic Medium, ';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="2.5432813"
+       y="2.7367194"
+       id="text1054"><tspan
+         id="tspan1052"
+         sodipodi:role="line"
+         x="2.5432813"
+         y="2.7367194"
+         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:2.82222223px;font-family:Dubai;-inkscape-font-specification:'Dubai Medium';stroke-width:0.26458332">MKR</tspan></text>
+    <text
+       id="text1058"
+       y="5.0920806"
+       x="1.7422993"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333311px;line-height:1.25;font-family:'Franklin Gothic Medium';-inkscape-font-specification:'Franklin Gothic Medium, ';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       xml:space="preserve"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:2.82222223px;font-family:Dubai;-inkscape-font-specification:'Dubai Medium';stroke-width:0.26458332"
+         y="5.0920806"
+         x="1.7422993"
+         sodipodi:role="line"
+         id="tspan1056">MUTE</tspan></text>
+  </g>
+  <g
+     style="display:none"
+     inkscape:label="HI SENS"
+     id="g1070"
+     inkscape:groupmode="layer">
+    <text
+       id="text1064"
+       y="2.7367194"
+       x="4.1158543"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333311px;line-height:1.25;font-family:'Franklin Gothic Medium';-inkscape-font-specification:'Franklin Gothic Medium, ';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       xml:space="preserve"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:2.82222223px;font-family:Dubai;-inkscape-font-specification:'Dubai Medium';stroke-width:0.26458332"
+         y="2.7367194"
+         x="4.1158543"
+         sodipodi:role="line"
+         id="tspan1062">HI</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333311px;line-height:1.25;font-family:'Franklin Gothic Medium';-inkscape-font-specification:'Franklin Gothic Medium, ';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="2.1817062"
+       y="5.0920806"
+       id="text1068"><tspan
+         id="tspan1066"
+         sodipodi:role="line"
+         x="2.1817062"
+         y="5.0920806"
+         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:2.82222223px;font-family:Dubai;-inkscape-font-specification:'Dubai Medium';stroke-width:0.26458332">SENS</tspan></text>
+  </g>
+  <g
+     style="display:none"
+     inkscape:label="DME"
+     id="g980"
+     inkscape:groupmode="layer">
+    <text
+       id="text978"
+       y="4.1430001"
+       x="1.8364029"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333311px;line-height:1.25;font-family:'Franklin Gothic Medium';-inkscape-font-specification:'Franklin Gothic Medium, ';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       xml:space="preserve"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:3.52777767px;font-family:Dubai;-inkscape-font-specification:'Dubai Medium';stroke-width:0.26458332"
+         y="4.1430001"
+         x="1.8364029"
+         id="tspan976"
+         sodipodi:role="line">DME</tspan></text>
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="g986"
+     inkscape:label="NAV1"
+     style="display:none">
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333311px;line-height:1.25;font-family:'Franklin Gothic Medium';-inkscape-font-specification:'Franklin Gothic Medium, ';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="1.1085507"
+       y="4.1430001"
+       id="text984"><tspan
+         sodipodi:role="line"
+         id="tspan982"
+         x="1.1085507"
+         y="4.1430001"
+         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:3.52777767px;font-family:Dubai;-inkscape-font-specification:'Dubai Medium';stroke-width:0.26458332">NAV1</tspan></text>
+  </g>
+  <g
+     style="display:none"
+     inkscape:label="ADF"
+     id="g992"
+     inkscape:groupmode="layer">
+    <text
+       id="text990"
+       y="4.1430001"
+       x="2.2749772"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333311px;line-height:1.25;font-family:'Franklin Gothic Medium';-inkscape-font-specification:'Franklin Gothic Medium, ';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       xml:space="preserve"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:3.52777767px;font-family:Dubai;-inkscape-font-specification:'Dubai Medium';stroke-width:0.26458332"
+         y="4.1430001"
+         x="2.2749772"
+         id="tspan988"
+         sodipodi:role="line">ADF</tspan></text>
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="g998"
+     inkscape:label="NAV2"
+     style="display:none">
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333311px;line-height:1.25;font-family:'Franklin Gothic Medium';-inkscape-font-specification:'Franklin Gothic Medium, ';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="1.1191339"
+       y="4.1430001"
+       id="text996"><tspan
+         sodipodi:role="line"
+         id="tspan994"
+         x="1.1191339"
+         y="4.1430001"
+         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:3.52777767px;font-family:Dubai;-inkscape-font-specification:'Dubai Medium';stroke-width:0.26458332">NAV2</tspan></text>
+  </g>
+  <g
+     style="display:none"
+     inkscape:label="AUX"
+     id="g1004"
+     inkscape:groupmode="layer">
+    <text
+       id="text1002"
+       y="4.1430001"
+       x="2.1384964"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333311px;line-height:1.25;font-family:'Franklin Gothic Medium';-inkscape-font-specification:'Franklin Gothic Medium, ';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       xml:space="preserve"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:3.52777767px;font-family:Dubai;-inkscape-font-specification:'Dubai Medium';stroke-width:0.26458332"
+         y="4.1430001"
+         x="2.1384964"
+         id="tspan1000"
+         sodipodi:role="line">AUX</tspan></text>
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="g1010"
+     inkscape:label="REC"
+     style="display:none">
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333311px;line-height:1.25;font-family:'Franklin Gothic Medium';-inkscape-font-specification:'Franklin Gothic Medium, ';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="2.3678293"
+       y="4.1430001"
+       id="text1008"><tspan
+         sodipodi:role="line"
+         id="tspan1006"
+         x="2.3678293"
+         y="4.1430001"
+         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:3.52777767px;font-family:Dubai;-inkscape-font-specification:'Dubai Medium';stroke-width:0.26458332">REC</tspan></text>
+  </g>
+  <g
+     style="display:none"
+     inkscape:label="PLAY"
+     id="g1016"
+     inkscape:groupmode="layer">
+    <text
+       id="text1014"
+       y="4.1430001"
+       x="1.3947417"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333311px;line-height:1.25;font-family:'Franklin Gothic Medium';-inkscape-font-specification:'Franklin Gothic Medium, ';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       xml:space="preserve"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:3.52777767px;font-family:Dubai;-inkscape-font-specification:'Dubai Medium';stroke-width:0.26458332"
+         y="4.1430001"
+         x="1.3947417"
+         id="tspan1012"
+         sodipodi:role="line">PLAY</tspan></text>
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="g1080"
+     inkscape:label="INTR COM"
+     style="display:none">
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333311px;line-height:1.25;font-family:'Franklin Gothic Medium';-inkscape-font-specification:'Franklin Gothic Medium, ';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="2.394453"
+       y="2.7367194"
+       id="text1074"><tspan
+         id="tspan1072"
+         sodipodi:role="line"
+         x="2.394453"
+         y="2.7367194"
+         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:2.82222223px;font-family:Dubai;-inkscape-font-specification:'Dubai Medium';stroke-width:0.26458332">INTR</tspan></text>
+    <text
+       id="text1078"
+       y="5.0920806"
+       x="2.5825498"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333311px;line-height:1.25;font-family:'Franklin Gothic Medium';-inkscape-font-specification:'Franklin Gothic Medium, ';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       xml:space="preserve"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:2.82222223px;font-family:Dubai;-inkscape-font-specification:'Dubai Medium';stroke-width:0.26458332"
+         y="5.0920806"
+         x="2.5825498"
+         sodipodi:role="line"
+         id="tspan1076">COM</tspan></text>
+  </g>
+  <g
+     style="display:none"
+     inkscape:label="MAN SQ"
+     id="g1100"
+     inkscape:groupmode="layer">
+    <text
+       id="text1094"
+       y="2.7367194"
+       x="2.4188168"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333311px;line-height:1.25;font-family:'Franklin Gothic Medium';-inkscape-font-specification:'Franklin Gothic Medium, ';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       xml:space="preserve"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:2.82222223px;font-family:Dubai;-inkscape-font-specification:'Dubai Medium';stroke-width:0.26458332"
+         y="2.7367194"
+         x="2.4188168"
+         sodipodi:role="line"
+         id="tspan1092">MAN</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333311px;line-height:1.25;font-family:'Franklin Gothic Medium';-inkscape-font-specification:'Franklin Gothic Medium, ';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="3.7235875"
+       y="5.0920806"
+       id="text1098"><tspan
+         id="tspan1096"
+         sodipodi:role="line"
+         x="3.7235875"
+         y="5.0920806"
+         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:2.82222223px;font-family:Dubai;-inkscape-font-specification:'Dubai Medium';stroke-width:0.26458332">SQ</tspan></text>
+  </g>
+</svg>
