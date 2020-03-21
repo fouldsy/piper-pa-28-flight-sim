@@ -7,5 +7,7 @@ toc:
         url: /piper-pa-28-flight-sim/sim-history.html
   - title: Building the sim
     subfolderitems:
+      - page: The cockpit
+        url: /piper-pa-28-flight-sim/cockpit.html
       - page: Garmin G1000
         url: /piper-pa-28-flight-sim/g1000.html
