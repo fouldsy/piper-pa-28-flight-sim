@@ -23,7 +23,7 @@ It took 2-3 weeks to freight it all the way from Florida to Seattle, and I don't
 
 ![Cockpit just delivered and in the garage](images/cockpit/just-delivered.jpg)
 
-This was my first time seeing just what I'd let myself in for. The interior was a mess, which I could tell from te listing photos.
+This was my first time seeing just what I'd let myself in for. The interior was a mess, which I could tell from the listing photos.
 
 ![Inside the cockpit just after delivery](images/cockpit/just-delivered-interior.jpg)
 
@@ -33,7 +33,7 @@ Most of the interior was soon to be ripped out anyway, along with most of the in
 
 ## Cleaning the interior
 
-After assessing what the cockpit and what was worth keeping, I then set about cleaning everything up. First, I removed all the old interior fabric, insulation, and coverings. It was surprising just how much there was to come out of a fairly stripped-down cockpit anyway.
+After assessing what the cockpit had and what was worth keeping, I then set about cleaning everything up. First, I removed all the old interior fabric, insulation, and coverings. It was surprising just how much there was to come out of a fairly stripped-down cockpit to begin with.
 
 ![Cleaning the interior of the cockput](images/cockpit/cleaning-interior.jpg)
 
@@ -45,13 +45,13 @@ With almost everything stripped back to the bare metal, I could then clean up al
 
 ![Cockpit interior cleaned](images/cockpit/interior-cleaned.jpg)
 
-I couldn't get everything out from behind the instrument panel without removing the interior panel, which while tempting, seemed a little unnecessary and too much work. But, again, it gave a much better starting point to then begin building the flight simulator.
+I couldn't get everything out from behind the instrument panel without removing the entire panel, which while tempting, seemed a little unnecessary and too much work. But even like this, it gave a much better starting point to then begin building the flight simulator.
 
 ![Instrument panel cleaned up and tidied](images/cockpit/interior-cleaned-dash.jpg)
 
 ## Initial component installation
 
-One of the main reasons I'd wanted a Cessna 172 cockpit was to then use a Garmin G1000 suite. As much as there's an appeal to steam-driven gauges, since I can't fly for real, I've always been attracted to the G1000 panels.
+One of the main reasons I'd wanted a Cessna 172 cockpit was to use a Garmin G1000 suite. As much as there's an appeal to steam-driven gauges, since I can't fly for real, I've always been attracted to the G1000 panels.
 
 Initially, I was going to stay true to steam-driven gauges, so built a Garmin GNS-430 and GNS-530 unit based on the designs by [Allan Glen](https://cessna172sim.allanglen.com/).
 
@@ -66,3 +66,5 @@ By the time I was working on the Bendix King KT76C transponder and initial desig
 ![Bendix King KT76C transponder](images/cockpit/kt76c.jpg)
 
 I was fine with the cockpit itself, but trying to remain true to the PA-28-151 just wasn't going to cut it. So, I explored X-plane models for the Piper PA-28 181 and similar that offered a G1000 suite, and [ended up going down that route instead](g1000.md).
+
+So, the cockpit is somewhat of a mix of a PA-28-151 in terms of the switch panel and instrument panel layout, but upgraded for a G1000 suite :) I don't think many real-world owners of a PA-28-151 would foot the bill for such an upgrade, but hey - it's my plane, so I can do it!
