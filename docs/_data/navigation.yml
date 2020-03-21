@@ -1,0 +1,11 @@
+toc:
+  - title: About
+    subfolderitems:
+      - page: The sim
+        url: /index.html
+      - page: Sim history
+        url: /sim-history.html
+  - title: Building the sim
+    subfolderitems:
+      - page: Garmin G1000
+        url: /g1000.html
