@@ -1,11 +1,11 @@
 toc:
   - title: About
     subfolderitems:
-      - page: The sim
-        url: /index.html
+      - page: Home
+        url: /piper-pa-28-flight-sim/index.html
       - page: Sim history
-        url: /sim-history.html
+        url: /piper-pa-28-flight-sim/sim-history.html
   - title: Building the sim
     subfolderitems:
       - page: Garmin G1000
-        url: /g1000.html
+        url: /piper-pa-28-flight-sim/g1000.html
