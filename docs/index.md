@@ -2,26 +2,32 @@
 
 After many years of flight simming, I'm currently building a flight simulator using the cockpit from a 1975 Piper PA-28-151 interfaced to X-Plane 11 using AirManager.
 
+The cockpit is capable of running Microsoft Flight Simulator 2020, but the current development tools don't provide the full functionality required for what I consider to be try flight-worthiness. Visually, it's very impressive.
+
+The following flight was taken over the San Juan Islands in X-Plane 11:
+
+![Flight over the San Juan Islands](images/san-juan-flight.jpg)
+
 For more information, see [more about the cockpit](cockpit.md) or [building the Garmin G1000 suite](g1000.md).
 
-Current view of the inside of the cockpit:
+Fully functional controls:
 
-![Inside the cockpit](images/inside-sim.jpg)
+* Home made laser cut and 3D printed Garmin G1000 PFD, audio panel, and MFD
+* Honeycomb Aeronautical Alpha yoke with shaft extension
+* 3D printed fuel selector valve
+* 5-position ignition switch
 
-Fully functional:
+The following OEM hardware is also fully functional within the flight simulator:
 
-* Garmin G1000 PFD, audio panel, and MFD
-* OEM switch panel
+* Switch panel
 * Throttle and mixture controls
-
-In progress:
-
+* Elevator trim wheel
+* Flaps lever
 * Parking brake
+* Annunciator panel
 
-Current view of outside of the cockpit:
+Current view of outside of the cockpit on runway 20 at Bremerton National (KPWT):
 
 ![Outside the cockpit](images/outside-sim.jpg)
 
 The 12ft diameter 180 degree curved screen uses two Optoma GT1080 short-throw projectors warped using [Immersive Display PRO from  Fly Elise-ng](https://fly.elise-ng.net/immersive-display-pro/). The screen surface is painted a light grey.
-
-The screens and projectors are functional, but need refinement and additional calibration. This is my current project

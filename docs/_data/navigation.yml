@@ -11,5 +11,7 @@ toc:
         url: /piper-pa-28-flight-sim/cockpit.html
       - page: Garmin G1000
         url: /piper-pa-28-flight-sim/g1000.html
-      - page: Equipment
+      - page: Flight controls
+        url: /piper-pa-28-flight-sim/flight-controls.html
+      - page: Tools and equipment
         url: /piper-pa-28-flight-sim/equipment.html
