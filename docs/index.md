@@ -26,6 +26,8 @@ The following OEM hardware is also fully functional within the flight simulator:
 * Parking brake
 * Annunciator panel
 
+See how I've [incorporated a lot OEM equipment for flight controls](flight-controls.html).
+
 Current view of outside of the cockpit on runway 20 at Bremerton National (KPWT):
 
 ![Outside the cockpit](images/outside-sim.jpg)

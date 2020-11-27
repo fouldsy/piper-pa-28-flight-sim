@@ -65,6 +65,6 @@ By the time I was working on the Bendix King KT76C transponder and initial desig
 
 ![Bendix King KT76C transponder](images/cockpit/kt76c.jpg)
 
-I was fine with the cockpit itself, but trying to remain true to the PA-28-151 just wasn't going to cut it. So, I explored X-plane models for the Piper PA-28 181 and similar that offered a G1000 suite, and [ended up going down that route instead](g1000.md).
+I was fine with the cockpit itself, but trying to remain true to the PA-28-151 just wasn't going to cut it. So, I explored X-plane models for the Piper PA-28 181 and similar that offered a G1000 suite, and [ended up building my own](g1000.md).
 
-So, the cockpit is somewhat of a mix of a PA-28-151 in terms of the switch panel and instrument panel layout, but upgraded for a G1000 suite :) I don't think many real-world owners of a PA-28-151 would foot the bill for such an upgrade, but hey - it's my plane, so I can do it!
+So, the cockpit is somewhat of a mix of a PA-28-151 in terms of the switch panel and instrument panel layout, but upgraded for a G1000 suite :) I don't think many real-world owners of a PA-28-151 would foot the bill for such an upgrade, but hey - it's my plane, so I can do it! I've still [incorporated a lot OEM equipment for flight controls into the flight sim](flight-controls.html).
