@@ -4,7 +4,7 @@ Where possible, I've tried to use OEM parts. The cockpit itself is a Piper PA-21
 
 ![Cockit panel](images/flight-controls/cockpit-dash.jpg)
 
-Associated 3D components for adapting the OEM flight controls at https://www.thingiverse.com/thing:4681780
+Associated 3D components for adapting the OEM flight controls at [https://www.thingiverse.com/thing:4681780](https://www.thingiverse.com/thing:4681780).
 
 ## Flight yoke
 
