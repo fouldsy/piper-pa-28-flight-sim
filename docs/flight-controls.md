@@ -1,8 +1,10 @@
-# Flight controls.
+# Flight controls
 
 Where possible, I've tried to use OEM parts. The cockpit itself is a Piper PA-218-151, but I've given myself a little wiggle room since in X-Plane 11 I'm flying a PA-28-161.
 
 ![Cockit panel](images/flight-controls/cockpit-dash.jpg)
+
+Associated 3D components for adapting the OEM flight controls at https://www.thingiverse.com/thing:4681780
 
 ## Flight yoke
 
